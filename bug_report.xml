@@ -1,12 +1,12 @@
 <bug_report>
   <title>name_title</title>
-  <steps_to_reproduction>
+  <steps_to_reproduce>
     <number_step>Step1</number_step>
     <number_step>Step2</number_step>
     <number_step>Step3</number_step>
-  </steps_to_reroduction>
+  </steps_to_reroduce>
   <expected_result>the_result_we_need</expected_result>
-  <factual_result>the_result_of_which_must_be</factual_result>
+  <actual_result>the_result_of_which_must_be</actual_result>
   <priority_factor>
     <priority_factor1>Low</priority_factor1>
     <priority_factor2>Medium</priority_factor2>
