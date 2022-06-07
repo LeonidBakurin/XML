@@ -4,7 +4,7 @@
     <number_step>Step1</number_step>
     <number_step>Step2</number_step>
     <number_step>Step3</number_step>
-  </steps_to_reroduce>
+  </steps_to_reproduce>
   <expected_result>the_result_we_need</expected_result>
   <actual_result>the_result_of_which_must_be</actual_result>
   <priority_factor>
